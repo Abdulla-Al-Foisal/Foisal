@@ -2,14 +2,13 @@
 # Hello, I'm Foisal
 <a href="https://www.linkedin.com/in/md-abdulla-al-foisal-baa0b0288/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m an IT and Cybersecurity enthusiast currently studying at Central Washington University. I enjoy learning new technologies, solving problems, and expanding my skills in cybersecurity and information systems. Always eager to grow, explore new tools, and take on meaningful challenges.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+My journey into cybersecurity is driven by curiosity, discipline, and a passion for solving complex problems. I am seeking an opportunity to grow as a Security & SOC Analyst and apply strong skills in network defense, vulnerability analysis, and system troubleshooting. Experienced with tools such as Wireshark, Nmap, and SIEM platforms, I am committed to strengthening an organization’s security posture while continuously advancing my professional capabilities.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
