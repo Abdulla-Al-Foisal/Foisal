@@ -11,11 +11,11 @@ I’m an IT and Cybersecurity enthusiast currently studying at Central Washingto
 My journey into cybersecurity is driven by curiosity, discipline, and a passion for solving complex problems. I am seeking an opportunity to grow as a Security & SOC Analyst and apply strong skills in network defense, vulnerability analysis, and system troubleshooting. Experienced with tools such as Wireshark, Nmap, and SIEM platforms, I am committed to strengthening an organization’s security posture while continuously advancing my professional capabilities.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Home Detection Lab Windows Kali & SIEM Environment          | <a href="https://github.com/Abdulla-Al-Foisal/Home-Detection-Lab-Windows-Kali-SIEM-Environment/blob/main/README.md">Home Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -56,5 +56,5 @@ My journey into cybersecurity is driven by curiosity, discipline, and a passion 
 </div>
 
 ## Projects
-- Detection Lab
+- Home Detection Lab Windows Kali & SIEM Environment <a href="https://github.com/Abdulla-Al-Foisal/Home-Detection-Lab-Windows-Kali-SIEM-Environment/blob/main/README.md">Home Detection Lab</a>
 - SOC Automation Project
